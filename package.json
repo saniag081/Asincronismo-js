@@ -8,7 +8,8 @@
     "callback": "node src/callback/index.js",
     "callback:chanllenge": "node src/callback/chanllenge.js",
     "promise": "node src/promise/index.js",
-    "promise:chanllenge": "node src/promise/chanllenge.js"
+    "promise:chanllenge": "node src/promise/chanllenge.js",
+    "async": "node src/async/index.js"
   },
   "keywords": [
     "callbacks",
