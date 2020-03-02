@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "callback": "node src/callback/index.js",
     "callback:chanllenge": "node src/callback/chanllenge.js",
-    "promise": "node src/promise/index.js"
+    "promise": "node src/promise/index.js",
+    "promise:chanllenge": "node src/promise/chanllenge.js"
   },
   "keywords": [
     "callbacks",
