@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "callback": "node src/callback/index.js",
-    "callback:chanllenge": "node src/callback/chanllenge.js"
+    "callback:chanllenge": "node src/callback/chanllenge.js",
+    "promise": "node src/promise/index.js"
   },
   "keywords": [
     "callbacks",
